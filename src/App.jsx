@@ -48,7 +48,7 @@ function BetApp() {
 
 function App() {
   return (
-    <TonConnectUIProvider manifestUrl="https://your-app.vercel.app/tonconnect-manifest.json">
+    <TonConnectUIProvider manifestUrl="https://ton-bet-ui-gamzatjls.vercel.app/tonconnect-manifest.json">
       <BetApp />
     </TonConnectUIProvider>
   );
